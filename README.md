@@ -7,7 +7,6 @@ description: >-
 
 # Apache Airflow
 
-{% embed url="https://airflow.apache.org/docs/apache-airflow/2.5.1/" %}
 
 Vamos a ver un ejemplo sencillo de DAG en Airflow para entender mejor cómo funciona. Este ejemplo consiste en un DAG que tiene tres tareas simples: `tarea_1`, `tarea_2`, y `tarea_3`, donde `tarea_1` se ejecuta primero, luego `tarea_2`, y finalmente `tarea_3`.
 
