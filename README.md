@@ -1,12 +1,12 @@
 ---
 description: >-
-  Airflow (Apache Airflow) es una plataforma de flujo de trabajo de código
-  abierto para programar y monitorear flujos de trabajo complejos. Un flujo de
-  trabajo en Airflow se representa mediante un DAG
+  William Alexander Rodríguez Arroyo | Data Analyst | https://wa.me/573117489870
+  | waradatamde@gmail.com
 ---
 
 # Apache Airflow
 
+Airflow (Apache Airflow) es una plataforma de flujo de trabajo de código abierto para programar y monitorear flujos de trabajo complejos. Un flujo de trabajo en Airflow se representa mediante un DAG
 
 Vamos a ver un ejemplo sencillo de DAG en Airflow para entender mejor cómo funciona. Este ejemplo consiste en un DAG que tiene tres tareas simples: `tarea_1`, `tarea_2`, y `tarea_3`, donde `tarea_1` se ejecuta primero, luego `tarea_2`, y finalmente `tarea_3`.
 
